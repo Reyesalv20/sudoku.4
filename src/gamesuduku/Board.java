@@ -39,7 +39,6 @@ public class Board {
                     cont++;
                     if(cont==3 || cont==6){
                         ixRow++;
-                        ogCol++;
                         ixCol=ogCol;
                     }
                 }
