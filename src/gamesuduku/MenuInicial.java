@@ -52,7 +52,7 @@ public class MenuInicial extends javax.swing.JFrame {
                 jButton1ActionPerformed(evt);
             }
         });
-        getContentPane().add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(300, 290, 150, -1));
+        getContentPane().add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(300, 284, 150, 30));
 
         FONDO.setBackground(new java.awt.Color(204, 204, 204));
         FONDO.setForeground(new java.awt.Color(204, 204, 204));
